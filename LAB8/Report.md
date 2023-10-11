@@ -190,10 +190,10 @@ void Systick_Handler(void)
 We got these observations
 
 
-![AA](LAB8AA.PNG)
+![AA](LAB8AA.png)
 
 
-![F0](LAB8F0.PNG)
+![F0](LAB8F0.png)
 
 ## References
 tm4c123gh6pm data sheet.
