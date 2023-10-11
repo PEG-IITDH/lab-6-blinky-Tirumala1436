@@ -1,0 +1,22 @@
+EE690 Embedded Systems (+Lab) 2023
+IIT Dharwad
+
+Instructors:
+Abhijit Kshirsagar (IITDH) and
+Darshak Vasavada (IISc)
+
+This directory is a template for a blank 
+project that can be used as a starting
+point for new projects.
+
+Target Information:
+1. Texas Instruments TiVA ARM Cortex-4F
+   TM4c123GH6PM processor on the LaunchPad
+   board from TI.
+2. Debug Interface:
+   Stellaris ICDI over USB
+
+Project Information:
+1. Designed for Code Composer Studio (CCS) v12
+   to be used with TI arm C compiler (NOT gcc)
+2. gitignore files included.
