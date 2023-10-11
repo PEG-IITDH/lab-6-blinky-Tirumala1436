@@ -1,3 +1,4 @@
+TIRUMALA REDDY B H [EE23MT022]
 # Embedded Lab UART Communication
 ## Objectives
 Program your microontroller to transmit:<br>
@@ -43,7 +44,7 @@ Integer part taken as 104 and we calculated fractional part using below expressi
   > 0.167*64+0.5=11
 ## Code
 ```C
-main.c
+ main.c
 ```
 
 ## Observation
